@@ -1,4 +1,4 @@
-![Scluttr](public/logos/banners/Scluttr.png)
+![Scluttr](public/logos/banners/Scluttr Banner.png)
 
 ## Scluttr
 
