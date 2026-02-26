@@ -1,4 +1,4 @@
-![Scluttr](public/logos/banners/Scluttr Banner.png)
+![Scluttr](public/logos/banners/Scluttr%20Banner.png)
 
 ## Scluttr
 
@@ -7,7 +7,7 @@ I wanted a task tracking solution that can fit my brain bouncing around tasks, h
 
 https://scluttr.vercel.app/
 
-
+___________________________________________________
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
