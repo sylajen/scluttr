@@ -1,3 +1,5 @@
+![Scluttr](public/logos/Scluttr.png)
+
 ## Scluttr
 
 This is a 24 hour project started on Feb 26, 2026, aimed to mess around and test my skills. 
