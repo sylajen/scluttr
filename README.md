@@ -1,3 +1,13 @@
+## Scluttr
+
+This is a 24 hour project started on Feb 26, 2026, aimed to mess around and test my skills. 
+I wanted a task tracking solution that can fit my brain bouncing around tasks, helping my scattered and cluttered thoughts have a bit more structure.
+
+https://scluttr.vercel.app/
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
